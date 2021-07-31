@@ -1,0 +1,125 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+h1{
+    font-weight: lighter;
+    color: rgb(23, 32, 32);
+}
+h2{
+    font-family: 'Nunito', sans-serif;
+    color: firebrick;
+    text-align: center;
+    padding-bottom: 30px;
+
+}
+h3{
+    color: firebrick;
+}
+hr{
+    border: dotted #021f1f 6px;
+    border-bottom: 0px;
+    width: 4%;
+
+}
+p{
+    line-height: 2;
+}
+a{
+    text-decoration: none;
+    color: rgb(240, 156, 212);
+}
+a:hover{
+    color: floralwhite;
+}
+
+.one{
+    background-color: rgb(233, 148, 120);
+    margin: 0 auto;
+}
+.three{
+    width: 50%;
+    margin: 50px auto;
+    text-align: left;
+    
+}
+.four{
+    margin: 30px auto;
+}
+.five{
+    background-color: rgb(189, 50, 50);
+    padding: 30px 0 30px ;
+    
+}
+.btn {
+    background: #e63c7a;
+    background-image: -webkit-linear-gradient(top, #e63c7a, #942323);
+    background-image: -moz-linear-gradient(top, #e63c7a, #942323);
+    background-image: -ms-linear-gradient(top, #e63c7a, #942323);
+    background-image: -o-linear-gradient(top, #e63c7a, #942323);
+    background-image: linear-gradient(to bottom, #e63c7a, #942323);
+    -webkit-border-radius: 14;
+    -moz-border-radius: 14;
+    border-radius: 14px;
+    text-shadow: 1px 1px 3px #ad40ad;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 13px 13px 10px 10px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #de1829;
+    background-image: -webkit-linear-gradient(top, #de1829, #851c4f);
+    background-image: -moz-linear-gradient(top, #de1829, #851c4f);
+    background-image: -ms-linear-gradient(top, #de1829, #851c4f);
+    background-image: -o-linear-gradient(top, #de1829, #851c4f);
+    background-image: linear-gradient(to bottom, #de1829, #851c4f);
+    text-decoration: none;
+  } 
+          
+.comp{
+    height: 180px;
+    width: 180px;
+    float: left;
+    padding-right: 20px;
+}
+.contact-msg{
+    width: 40%;
+    margin: auto;
+    padding-bottom: 30px;
+}
+.copyright{
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+}
+.dance{
+    height: 180px;
+    width: 180px;
+    float: right;
+
+}
+.dancerow{
+    padding-top: 40px;
+}
+.topc{
+    padding-top: 30px;
+    position: relative;
+    left: 200px;
+}
+.bottomc{
+    position: absolute;
+}
+.text{
+    margin-top: 30px;
+}
+.pro{
+    text-decoration: underline;
+}
+
+.riyapic{
+    height: 200px;
+    width: 200px;
+    margin-top: 20px;
+}
